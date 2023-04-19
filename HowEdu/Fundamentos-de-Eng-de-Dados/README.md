@@ -1,3 +1,3 @@
 
 ## Fundamentos de Engenharia de Dados
-#### Hora da Prática: Loterias
+* Hora da Prática: Loterias
