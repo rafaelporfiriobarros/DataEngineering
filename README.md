@@ -1,1 +1,1 @@
-### Estudos e projetos desenvolvidos durante cursos e bootcamps de Data Engineering.
+### Estudos e projetos desenvolvidos durante os cursos e bootcamps de Data Engineering.
