@@ -1,4 +1,4 @@
-![Logo-How](https://user-images.githubusercontent.com/64717231/233177640-6d5cc0ae-960f-44c9-a99c-012d77274576.svg)
+![image](https://user-images.githubusercontent.com/64717231/233199034-8ee1a3d1-161b-454b-9437-cdafae0bfbf4.png)
 
 
 ### Bootcamp Engenharia de Dados AWS
