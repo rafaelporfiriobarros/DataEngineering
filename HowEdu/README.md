@@ -3,3 +3,19 @@
 
 ### Bootcamp Engenharia de Dados AWS
 ##### https://howedu.com.br/cohort/engenharia-de-dados/
+
+Módulos:
+
+* Fundamentos de Ingestão de Dados
+* SQL
+* Capturando dados de uma API
+* Capturando dados com crawlers
+* Testes + Jenkins
+* Introdução à AWS
+* Integração contínua
+* Data Lakes
+* AWS Glue + Athena
+* Redshift + Spectrum
+* Apache Airflow
+* Terraform e Cloudformation
+* Conteúdos extras (Lambda, mensageria, spark)
