@@ -11,3 +11,4 @@ Neste tutorial, coloquei em prática o uso do airflow com docker, criando uma co
 
 https://www.youtube.com/watch?v=mMqaiNbeeUU&t=188s
 
+
