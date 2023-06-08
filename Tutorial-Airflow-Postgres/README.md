@@ -9,6 +9,6 @@ Neste tutorial, coloquei em prática o uso do airflow com docker, criando uma co
 - No arquivo docker-compose.yaml foram feitas algumas modificações para vincular o postgres que está instaldo localmente na sua máquina para visualizar o banco de dados criado no docker com airflow.
 - No restante foram criados o arquivo dag_executa_sql.py e a pasta sql com os aquivos sql da criacao da tabela e a insercao de dados.
 
-https://www.youtube.com/watch?v=mMqaiNbeeUU&t=188s
+[https://www.youtube.com/watch?v=mMqaiNbeeUU&t=188s](https://www.youtube.com/watch?v=mMqaiNbeeUU)
 
 
