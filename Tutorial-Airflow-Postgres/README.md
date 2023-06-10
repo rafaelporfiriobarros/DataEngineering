@@ -6,6 +6,14 @@ Neste tutorial, coloquei em prática o uso do airflow com docker, criando uma co
 - Instale o docker e o docker compose
 - Instale o airflow no docker
 - No arquivo docker-compose.yaml foram feitas algumas modificações para vincular o postgres que está instaldo localmente na sua máquina para visualizar o banco de dados criado no docker com airflow.
+
+  volumes:
+    - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
+    - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
+    - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
+    - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
+    - ${AIRFLOW_PROJ_DIR:-.}/sql:/opt/airflow/sql
+
 - No restante foram criados o arquivo dag_executa_sql.py e a pasta sql com os aquivos sql da criacao da tabela e a insercao de dados.
 
 [https://www.youtube.com/watch?v=mMqaiNbeeUU&t=188s](https://www.youtube.com/watch?v=mMqaiNbeeUU)
