@@ -2,4 +2,6 @@
 ### Studies and projects developed during Data Engineering courses and bootcamps.
 
 - HowEdu - Engenharia de Dados com AWS
+- Alura
+- Canal Codifike YouTube
 
